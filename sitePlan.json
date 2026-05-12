@@ -1,0 +1,49 @@
+{
+  "businessName": "Joechin Enterprise and Joechinny Enterprise",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Excellence in Manufacturing Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Joechin Enterprise and Joechinny Enterprise - Your Trusted Manufacturing Partner in Lagos. Delivering quality manufacturing solutions with precision and reliability. Located in the heart of Ibeju Lekki, we serve businesses across Nigeria with excellence and integrity.",
+      "imagePrompt": "Modern industrial manufacturing facility in Lagos Nigeria, clean production floor with machinery and equipment, bright natural lighting through large windows, professional workers in safety gear, metallic and blue tones, photorealistic, high quality, Nigerian industrial setting",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Joechin Enterprise and Joechinny Enterprise is a leading manufacturing company strategically located beside He Exist Ministry along Lekki/Epe Expressway in Ibeju Lekki, Lagos State. We are committed to delivering world-class manufacturing solutions that meet the highest standards of quality and efficiency. Our state-of-the-art facility and experienced team enable us to serve diverse industries across Nigeria, providing reliable products and services that drive business growth. We pride ourselves on our attention to detail, commitment to excellence, and our role in contributing to Nigeria's industrial development.",
+      "imagePrompt": "Professional Nigerian manufacturing company exterior, modern industrial building beside a road in Lagos, Lekki/Epe expressway visible, blue sky, well-maintained premises with company signage, landscaped entrance, photorealistic daytime shot, Nigerian architectural context",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Joechin Enterprise and Joechinny Enterprise, we offer comprehensive manufacturing services tailored to meet your business needs. Our capabilities include precision manufacturing, quality control and assurance, custom production solutions, industrial fabrication, and supply chain management. We work with various materials and employ cutting-edge technology to ensure every project meets specifications and exceeds expectations. Whether you need large-scale production or specialized manufacturing, our team delivers consistent quality and timely results. We serve clients across multiple sectors including construction, oil and gas, agriculture, and general industry.",
+      "imagePrompt": "Diverse manufacturing processes in Nigerian factory, welding sparks, precision machinery, quality control inspection, workers collaborating, multiple workstations, organized industrial environment, safety equipment visible, warm industrial lighting, photorealistic, professional Nigerian manufacturing setting",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "With years of experience in the manufacturing sector, Joechin Enterprise and Joechinny Enterprise stands out for our unwavering commitment to quality, reliability, and customer satisfaction. Our strategic location in Ibeju Lekki provides excellent access to major transportation routes, ensuring efficient logistics and timely delivery. We invest in modern equipment and continuous training for our workforce to maintain the highest industry standards. Our competitive pricing, flexible production capabilities, and dedicated customer service make us the preferred manufacturing partner for businesses across Lagos and beyond. We don't just manufacture products; we build lasting partnerships founded on trust and excellence.",
+      "imagePrompt": "Happy Nigerian business professionals shaking hands in front of manufacturing facility, modern factory background, satisfied customer and company representative, quality products visible, professional attire, Lagos business setting, warm natural lighting, photorealistic, success and partnership theme",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with Joechin Enterprise and Joechinny Enterprise today. Our team is available to answer your questions, provide quotations, and schedule facility tours. Visit us at our location beside He Exist Ministry along Lekki/Epe Expressway in Ibeju Lekki, Lagos State, or reach out via phone or WhatsApp. We look forward to partnering with you and delivering manufacturing solutions that exceed your expectations. Contact us now for professional, reliable, and quality manufacturing services.",
+      "imagePrompt": "Professional Nigerian contact center or office reception, friendly customer service representative on phone, modern office interior with company branding, Lagos business environment, welcoming atmosphere, computer screens showing manufacturing data, clean and organized workspace, photorealistic, professional business setting",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 706 168 1131",
+    "email": "info@joechinenterprise.com",
+    "address": "Beside He Exist Ministry, Lekki/Epe Expressway, Ibeju Lekki, Lagos State, Nigeria",
+    "whatsapp": "https://wa.me/2347061681131"
+  }
+}
